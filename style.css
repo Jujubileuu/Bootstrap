@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to right bottom, yellow, orange);
+}
+header{
+    background-image: url(https://63272.cdn.simplo7.net/static/63272/sku/caldeira-tricoline-colmeia-100-algodao-cada-unid-0-50cm-x-1-50m-1604599435962.jpg);
+    text-align: center;
+    padding-top: 8%;
+}
+h1{
+    font-size: 400%;
+}
+main{
+    height: auto;
+}
+main p{
+    font-size: large;
+}
+footer{
+    height: auto;
+    background-color: rgb(255, 255, 4);
+}
